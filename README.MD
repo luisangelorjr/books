@@ -1,11 +1,14 @@
 ## General
 
-- [ ] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **In progress 50%** :octocat:
+- [ ] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **In progress 57%** :octocat:
+
+---
+
 ## Java
 
 ### 101
 - [ ] **Core Java Volume I – Fundamentals**
-- [ ] **Effective Java**
+- [ ] **Effective Java (3rd)** - *by Joshua Bloch* - :octocat: **In progress 05%** :octocat:
 - [ ] **Java: A Beginner’s Guide**
 - [ ] **Java – The Complete Reference**
 - [ ] **Head First Java**
@@ -28,3 +31,4 @@
 - [ ] **Thinking in Java** - *by Bruce Eckel*
 - [ ] **Sams Teach Yourself Java in 21 Days** - *by Rogers Cadenhead*
 - [ ] **Spring in Action** - *by Craig Walls*
+- [ ] **The Java ™ Programming Language** -  *by Arnold, Gosling, and Holmes*
