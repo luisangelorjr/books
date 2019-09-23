@@ -32,3 +32,9 @@
 - [ ] **Sams Teach Yourself Java in 21 Days** - *by Rogers Cadenhead*
 - [ ] **Spring in Action** - *by Craig Walls*
 - [ ] **The Java ™ Programming Language** -  *by Arnold, Gosling, and Holmes*
+
+---
+
+## Management
+
+- [ ] **Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty** - *by C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors*
