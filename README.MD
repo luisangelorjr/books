@@ -1,6 +1,6 @@
 ## General
 
-- [ ] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **In progress 66%** :octocat:
+- [ ] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **In progress 68%** :octocat:
 
 ---
 
