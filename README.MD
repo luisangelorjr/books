@@ -38,3 +38,12 @@
 ## Management
 
 - [ ] **Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty** - *by C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors*
+
+### Agile
+
+- [ ] **Scrum Guide**
+- [ ] **Scrum: A arte de fazer o dobro de trabalho na metade do tempo**
+- [ ] **Implementando o desenvolvimento Lean de software: Do conceito ao dinheiro**
+- [ ] **Programação Extrema (XP) Aplicada: Acolha as mudanças**
+- [ ] **Kanban: Mudança evolucionário de sucesso para seu negócio de tecnologia**
+- [ ] **Scrum e Métodos Ágeis: Um guia prático**
