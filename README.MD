@@ -42,7 +42,7 @@
 ### Agile
 
 - [x] **Scrum Guide** - Completed
-- [ ] **Scrum: A arte de fazer o dobro de trabalho na metade do tempo** - :octocat: **In progress 93%%** :octocat:
+- [ ] **Scrum: A arte de fazer o dobro de trabalho na metade do tempo** - :octocat: **In progress 93%** :octocat:
 - [ ] **Implementando o desenvolvimento Lean de software: Do conceito ao dinheiro**
 - [ ] **Programação Extrema (XP) Aplicada: Acolha as mudanças**
 - [ ] **Kanban: Mudança evolucionário de sucesso para seu negócio de tecnologia**
