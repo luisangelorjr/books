@@ -1,9 +1,10 @@
 ## Programming
 
-### Classics
+### Classics & General
 - [ ] **Clean Code – A Handbook of Agile Software Craftsmanship**
 - [ ] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **In progress 68%** :octocat:
 - [ ] **The Pragmatic Programmer**
+- [ ] **O Universo da Programação**
 
 ### OOP
 - [ ] **Head First Object-Oriented Analysis Design**
