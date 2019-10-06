@@ -36,7 +36,7 @@
 - [ ] **Spring in Action** - *by Craig Walls*
 
 ### Javascript
-- [ ] **Eloquent Javascript **
+- [ ] **Eloquent Javascript**
 
 ---
 
