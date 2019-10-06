@@ -1,12 +1,17 @@
-## General
+## Programming
 
+### Classics
+- [ ] **Clean Code – A Handbook of Agile Software Craftsmanship**
 - [ ] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **In progress 68%** :octocat:
+- [ ] **The Pragmatic Programmer**
 
----
+### OOP
+- [ ] **Head First Object-Oriented Analysis Design**
 
-## Java
+### Design Patterns
+- [ ] **Head First Design Patterns**
 
-### 101
+### Java
 - [ ] **Core Java Volume I – Fundamentals**
 - [ ] **Effective Java (3rd)** - *by Joshua Bloch* - :octocat: **In progress 05%** :octocat:
 - [ ] **Java: A Beginner’s Guide**
@@ -14,12 +19,7 @@
 - [ ] **Head First Java**
 - [ ] **Java Concurrency in Practice**
 - [ ] **Test Driven: TDD and Acceptance TDD for Java Developers**
-- [ ] **Head First Object-Oriented Analysis Design**
 - [ ] **Java Performance: The Definite Guide**
-- [ ] **Head First Design Patterns**
-- [ ] **Clean Code – A Handbook of Agile Software Craftsmanship**
-
-### 102
 - [ ] **Core Java** - *by Cay S. Horstmann and Gary Cornell*
 - [ ] **Extreme Java – Concurrency Performance for Java 8** - *by Dr. Heinz Kabutz*
 - [ ] **Java: How to Program: Early Objects** - *by Paul J. Deitel and Harvey M. Deitel*
@@ -30,8 +30,13 @@
 - [ ] **Think Java: How to think like a Computer Scientist** - *by Allen B. Downey*
 - [ ] **Thinking in Java** - *by Bruce Eckel*
 - [ ] **Sams Teach Yourself Java in 21 Days** - *by Rogers Cadenhead*
-- [ ] **Spring in Action** - *by Craig Walls*
 - [ ] **The Java ™ Programming Language** -  *by Arnold, Gosling, and Holmes*
+
+#### Spring
+- [ ] **Spring in Action** - *by Craig Walls*
+
+### Javascript
+- [ ] **Eloquent Javascript **
 
 ---
 
