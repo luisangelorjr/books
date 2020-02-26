@@ -2,7 +2,7 @@
 
 ### Classics & General
 - [ ] **Clean Code – A Handbook of Agile Software Craftsmanship**
-- [ ] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **In progress 68%** :octocat:
+- [x] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **100% Complete** :octocat:
 - [ ] **The Pragmatic Programmer**
 - [ ] **O Universo da Programação**
 
