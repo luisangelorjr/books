@@ -5,6 +5,7 @@
 - [x] **The Passionate Programmer** - *by Chad Fowler* - :octocat: **100% Complete** :octocat:
 - [ ] **The Pragmatic Programmer**
 - [ ] **O Universo da Programação**
+- [ ] **Peopleware** - *by TomDeMarco* - :octocat:  **In Progress - 08%** :octocat: 
 
 ### OOP
 - [ ] **Head First Object-Oriented Analysis Design**
